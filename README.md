@@ -1,8 +1,6 @@
 # Hi there, I'm Mariem Essam 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E91E8C&center=true&vCenter=true&width=500&lines=MIS+Graduate+%F0%9F%8E%93;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Open+to+New+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
-</p>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 ---
 
